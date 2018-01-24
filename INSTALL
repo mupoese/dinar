@@ -1,0 +1,9 @@
+Building Dinar
+
+See doc/readme-qt.rst for instructions on building Dinar-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dinar.
+
+See doc/build-*.txt for instructions on building dinard,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dinar.
